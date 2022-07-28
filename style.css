@@ -3,10 +3,6 @@
     transform: translateY(-50%);
 }
 
-.carousel-caption h1,
-.carousel-caption p {
-    color: #FFFFFF;
-}
 
 .carousel-caption h1 {
     font-size: 3.5vw;
@@ -41,4 +37,7 @@
     border-radius: 20px;
     top: 40%;
     right: -4%;
+}
+footer{
+    height: 45vh;
 }

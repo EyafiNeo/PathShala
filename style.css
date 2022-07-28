@@ -19,3 +19,7 @@
 .carousel-item img {
     filter: brightness(40%);
 }
+
+.ready-to-join{
+    height: 35vh;
+}
